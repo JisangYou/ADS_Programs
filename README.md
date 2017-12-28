@@ -16,3 +16,21 @@
 7. [Abstract](https://github.com/youjisang/Abstract.git)
 
 8. [Annotation](https://github.com/youjisang/Annotation.git)
+
+## Android
+
+순서정리
+
+[Widget](https://github.com/youjisang/Widget.git)
+
+[Animation](https://github.com/youjisang/Animation.git)
+
+
+## Mini-Project
+
+- [Calculate_basic](https://github.com/youjisang/Calculate_basic.git)
+
+- [Calculate_advanced](https://github.com/youjisang/Calculate_advanced.git) - 대대적인 수정필요
+
+- [materialDesignAnimation](https://github.com/youjisang/materialDesign_propertyAnimation.git)
+
