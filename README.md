@@ -34,17 +34,17 @@
 
 ## Mini-Project
 
-[Calculate_basic](https://github.com/youjisang/Calculate_basic.git)
+- [Calculate_basic](https://github.com/youjisang/Calculate_basic.git)
 
-[Calculate_advanced](https://github.com/youjisang/Calculate_advanced.git) - 대대적인 수정필요
+- [Calculate_advanced](https://github.com/youjisang/Calculate_advanced.git) - 대대적인 수정필요
 
-[materialDesignAnimation](https://github.com/youjisang/materialDesign_propertyAnimation.git)
+- [materialDesignAnimation](https://github.com/youjisang/materialDesign_propertyAnimation.git)
 
-[MemoWithFile](https://github.com/youjisang/Android_Memo.git)
+- [MemoWithFile](https://github.com/youjisang/Android_Memo.git)
 
-[MemoWithSqlLite](https://github.com/youjisang/Android_Memo_WithDB.git)
+- [MemoWithSqlLite](https://github.com/youjisang/Android_Memo_WithDB.git)
 
-[MemoWithrecyclerView&ORM](https://github.com/youjisang/Android_Memo_with_recyclerViewAndORM.git)
+- [MemoWithrecyclerView&ORM](https://github.com/youjisang/Android_Memo_with_recyclerViewAndORM.git)
 
 
 
