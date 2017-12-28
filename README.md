@@ -21,16 +21,30 @@
 
 순서정리
 
-[Widget](https://github.com/youjisang/Widget.git)
+- [Widget](https://github.com/youjisang/Widget.git)
 
-[Animation](https://github.com/youjisang/Animation.git)
+- [Animation](https://github.com/youjisang/Animation.git)
+
+- [BasicLayout_Review](https://github.com/youjisang/BasicLayout_Review.git)
+
+- [CustomVIew](https://github.com/youjisang/CustomView.git)
+
+- [BasicListView](https://github.com/youjisang/BasicListView.git)
 
 
 ## Mini-Project
 
-- [Calculate_basic](https://github.com/youjisang/Calculate_basic.git)
+[Calculate_basic](https://github.com/youjisang/Calculate_basic.git)
 
-- [Calculate_advanced](https://github.com/youjisang/Calculate_advanced.git) - 대대적인 수정필요
+[Calculate_advanced](https://github.com/youjisang/Calculate_advanced.git) - 대대적인 수정필요
 
-- [materialDesignAnimation](https://github.com/youjisang/materialDesign_propertyAnimation.git)
+[materialDesignAnimation](https://github.com/youjisang/materialDesign_propertyAnimation.git)
+
+[MemoWithFile](https://github.com/youjisang/Android_Memo.git)
+
+[MemoWithSqlLite](https://github.com/youjisang/Android_Memo_WithDB.git)
+
+[MemoWithrecyclerView&ORM](https://github.com/youjisang/Android_Memo_with_recyclerViewAndORM.git)
+
+
 
