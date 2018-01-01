@@ -15,7 +15,7 @@
 
 7. [Annotation](https://github.com/youjisang/Annotation.git)
 
-8. [server-chatting](https://github.com/youjisang/Server-chatting.git)
+8. [Server-chatting](https://github.com/youjisang/Server-chatting.git)
 
 ## Android(진행 중)
 
@@ -37,13 +37,13 @@
  
  9. [Tetris2](https://github.com/youjisang/Tetris2.git)
  
-10. [threadbasic](https://github.com/youjisang/threadbasic.git)
+10. [Threadbasic](https://github.com/youjisang/threadbasic.git)
 
-11. [servicebasic](https://github.com/youjisang/ServiceBasic.git)
+11. [Servicebasic](https://github.com/youjisang/ServiceBasic.git)
 
 12. [Thread-RainDrop](https://github.com/youjisang/Thread-RainDrop.git)
 
-13. [networkThread](https://github.com/youjisang/Thread-RainDrop.git)
+13. [NetworkThread](https://github.com/youjisang/Thread-RainDrop.git)
 
 14. [AsyncTask](https://github.com/youjisang/AsyncTask.git)
 
@@ -53,9 +53,9 @@
 
 ## node js (진행 중)
 
-1. [nodejs_basic](https://github.com/youjisang/nodejs_basic.git)
+1. [Nodejs_basic](https://github.com/youjisang/nodejs_basic.git)
 
-2. [nodejs_server_basic](https://github.com/youjisang/nodejs_server_basic.git)
+2. [Nodejs_server_basic](https://github.com/youjisang/nodejs_server_basic.git)
 
 
 ## Mini-Project
