@@ -15,9 +15,9 @@
 
 7. [Annotation](https://github.com/youjisang/Annotation.git)
 
-## Android
+8. [server-chatting](https://github.com/youjisang/Server-chatting.git)
 
-순서정리
+## Android(진행 중)
 
  1. [Widget](https://github.com/youjisang/Widget.git)
  
@@ -36,9 +36,30 @@
  8. [Tetris](https://github.com/youjisang/Tetris.git)
  
  9. [Tetris2](https://github.com/youjisang/Tetris2.git)
+ 
+10. [threadbasic](https://github.com/youjisang/threadbasic.git)
+
+11. [servicebasic](https://github.com/youjisang/ServiceBasic.git)
+
+12. [Thread-RainDrop](https://github.com/youjisang/Thread-RainDrop.git)
+
+13. [networkThread](https://github.com/youjisang/Thread-RainDrop.git)
+
+14. [AsyncTask](https://github.com/youjisang/AsyncTask.git)
+
+15. [JsonData](https://github.com/youjisang/JsonData.git)
+
+16. [Server_basic2] 준비중
+
+## node js (진행 중)
+
+1. [nodejs_basic](https://github.com/youjisang/nodejs_basic.git)
+
+2. [nodejs_server_basic](https://github.com/youjisang/nodejs_server_basic.git)
 
 
 ## Mini-Project
+
 - [Memo_File](https://github.com/youjisang/Memo_file.git)
 
 - [Calculate_basic](https://github.com/youjisang/Calculate_basic.git)
@@ -56,6 +77,10 @@
 - [MusicPlayer1](https://github.com/youjisang/MusicPlayer.git)
 
 - [MusicPlayer2](https://github.com/youjisang/MusicPlayer2.git)
+
+- [TransferStation](https://github.com/youjisang/TransferStation.git)
+
+- [Bicycle](https://github.com/youjisang/Bicycle.git)
 
 
 
