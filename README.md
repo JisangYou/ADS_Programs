@@ -7,6 +7,8 @@
 
 + [Java_Basic2](https://github.com/youjisang/ADS_Java_Basic2.git) 
 
++ [ADS_Java_StringClass_Algorithm](https://github.com/youjisang/ADS_Java_StringClass_Algorithm.git)
+
 + [Algorythm&Lotto&etc](https://github.com/youjisang/Algorithm_Lotto_etc.git) 미
 
 + [CollectionMain](https://github.com/youjisang/Collection_Study.git) 미
