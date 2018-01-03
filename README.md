@@ -1,7 +1,7 @@
 # FC_ADS_4_Programs
 
 ## Java
-+ [OOP_SOLID](https://github.com/youjisang/OOP_SOLID.git)
++ [ADS_Java_OOP_SOLID](https://github.com/youjisang/ADS_Java_OOP_SOLID.git)
 
 + [Java_Basic](https://github.com/youjisang/ADS_Java_Basic.git)
 
