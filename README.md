@@ -1,23 +1,23 @@
 # FC_ADS_4_Programs
 
 ## Java
-+ [ADS_Java_OOP_SOLID](https://github.com/youjisang/ADS_Java_OOP_SOLID.git)
++ [Java_OOP_SOLID](https://github.com/youjisang/ADS_Java_OOP_SOLID.git)
 
 + [Java_Basic](https://github.com/youjisang/ADS_Java_Basic.git)
 
-+ [Java_Basic2](https://github.com/youjisang/ADS_Java_Basic2.git)
++ [Java_Basic2](https://github.com/youjisang/ADS_Java_Basic2.git) 
 
-+ [Algorythm&Lotto&etc](https://github.com/youjisang/Algorithm_Lotto_etc.git)
++ [Algorythm&Lotto&etc](https://github.com/youjisang/Algorithm_Lotto_etc.git) 미
 
-+ [CollectionMain](https://github.com/youjisang/Collection_Study.git)
++ [CollectionMain](https://github.com/youjisang/Collection_Study.git) 미
 
-+ [Generic](https://github.com/youjisang/Generic.git)
++ [Generic](https://github.com/youjisang/Generic.git) 미
 
-+ [Abstract](https://github.com/youjisang/Abstract.git)
++ [Abstract](https://github.com/youjisang/Abstract.git) 미
 
-+ [Annotation](https://github.com/youjisang/Annotation.git)
++ [Annotation](https://github.com/youjisang/Annotation.git) 미
 
-+ [Server-chatting](https://github.com/youjisang/Server-chatting.git)
++ [Server-chatting](https://github.com/youjisang/Server-chatting.git) 미
 
 ## Android(진행 중)
 
