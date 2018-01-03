@@ -3,7 +3,7 @@
 ## Java
 1. [OOP_SOLID](https://github.com/youjisang/OOP_SOLID.git)
 
-2. [Java_Basic](https://github.com/youjisang/ADS_Java_Basic.git)
+2. [Java_Basic2](https://github.com/youjisang/ADS_Java_Basic2.git)
 
 3. [Algorythm&Lotto&etc](https://github.com/youjisang/Algorithm_Lotto_etc.git)
 
