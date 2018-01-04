@@ -17,7 +17,7 @@
 
 + [Java_Memo2](https://github.com/youjisang/ADS_Java_Memo2.git) 
 
-+ [Generic](https://github.com/youjisang/Generic.git) 미
++ [Java_Generic](https://github.com/youjisang/ADS_Java_Generic.git)
 
 + [Java_Abstract_Interface](https://github.com/youjisang/ADS_Java_Abstract_Interface.git)
 
