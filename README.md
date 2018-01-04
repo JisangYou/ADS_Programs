@@ -9,8 +9,6 @@
 
 + [Java_StringClass_MathClass](https://github.com/youjisang/ADS_Java_StringClass_MathClass.git)
 
-+ [Algorythm&Lotto&etc](https://github.com/youjisang/Algorithm_Lotto_etc.git) 미
-
 + [CollectionMain](https://github.com/youjisang/Collection_Study.git) 미
 
 + [Generic](https://github.com/youjisang/Generic.git) 미
