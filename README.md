@@ -1,4 +1,4 @@
-# FC_ADS_4_Programs
+# ADS_Programs
 
 ## Java
 + [Java_OOP_SOLID](https://github.com/youjisang/ADS_Java_OOP_SOLID.git)
@@ -13,7 +13,9 @@
 
 + [Java_MVC](https://github.com/youjisang/ADS_Java_MVC.git)
 
-+ [Memo_File](https://github.com/youjisang/Memo_file.git) 
++ [Java_Memo1](https://github.com/youjisang/ADS_Java_Memo1.git) 
+
++ [Java_Memo2](https://github.com/youjisang/ADS_Java_Memo2.git) 
 
 + [Generic](https://github.com/youjisang/Generic.git) 미
 
