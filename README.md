@@ -19,6 +19,8 @@
 
 + [Server-chatting](https://github.com/youjisang/Server-chatting.git) 미
 
++ [Algorithm&Lotto&etc] -  확인 후 삭제 
+
 ## Android(진행 중)
 
  1. [Widget](https://github.com/youjisang/Widget.git)
