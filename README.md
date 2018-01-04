@@ -19,7 +19,7 @@
 
 + [Generic](https://github.com/youjisang/Generic.git) 미
 
-+ [Abstract](https://github.com/youjisang/Abstract.git) 미
++ [Java_Abstract_Interface](https://github.com/youjisang/ADS_Java_Abstract_Interface.git)
 
 + [Annotation](https://github.com/youjisang/Annotation.git) 미
 
