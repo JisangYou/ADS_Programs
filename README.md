@@ -11,6 +11,10 @@
 
 + [Java_Collection](https://github.com/youjisang/ADS_Java_Collection.git)
 
++ [Java_MVC](https://github.com/youjisang/ADS_Java_MVC.git)
+
++ [Memo_File](https://github.com/youjisang/Memo_file.git) 
+
 + [Generic](https://github.com/youjisang/Generic.git) 미
 
 + [Abstract](https://github.com/youjisang/Abstract.git) 미
@@ -63,7 +67,7 @@
 
 ## Mini-Project
 
-- [Memo_File](https://github.com/youjisang/Memo_file.git)
+
 
 - [Calculate_basic](https://github.com/youjisang/Calculate_basic.git)
 
