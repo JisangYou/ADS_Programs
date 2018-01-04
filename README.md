@@ -9,7 +9,7 @@
 
 + [Java_StringClass_MathClass](https://github.com/youjisang/ADS_Java_StringClass_MathClass.git)
 
-+ [CollectionMain](https://github.com/youjisang/Collection_Study.git) 미
++ [Java_Collection](https://github.com/youjisang/ADS_Java_Collection.git)
 
 + [Generic](https://github.com/youjisang/Generic.git) 미
 
@@ -19,7 +19,6 @@
 
 + [Server-chatting](https://github.com/youjisang/Server-chatting.git) 미
 
-+ [Algorithm&Lotto&etc] -  확인 후 삭제 
 
 ## Android(진행 중)
 
