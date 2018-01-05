@@ -35,6 +35,10 @@
 - [Android_Concept_Manifest_Layout](https://github.com/youjisang/Android_Concept_Manifest_Layout.git)
 
 - [Android_BasicWidget](https://github.com/youjisang/ADS_Android_BasicWidget.git)
+
+- [Calculate_basic](https://github.com/youjisang/Calculate_basic.git) 미
+
+- [Calculate_advanced](https://github.com/youjisang/Calculate_advanced.git) - 대대적인 수정필요 미
  
 - [Animation](https://github.com/youjisang/Animation.git) 미
  
@@ -68,9 +72,6 @@
 
 ## Mini-Project
 
-- [Calculate_basic](https://github.com/youjisang/Calculate_basic.git) 미
-
-- [Calculate_advanced](https://github.com/youjisang/Calculate_advanced.git) - 대대적인 수정필요 미
 
 - [materialDesignAnimation](https://github.com/youjisang/materialDesign_propertyAnimation.git) 미
 
