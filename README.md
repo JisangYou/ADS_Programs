@@ -32,7 +32,7 @@
 
 ## Android
 
-- [Android_Concept_Manifest_Layout()
+- [Android_Concept_Manifest_Layout](https://github.com/youjisang/Android_Concept_Manifest_Layout.git)
 
 - [Android_BasicWidget](https://github.com/youjisang/ADS_Android_BasicWidget.git)
  
