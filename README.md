@@ -27,6 +27,8 @@
 
 + [Java_lambda_Expressions](https://github.com/youjisang/ADS_Java_Lambda_Expressions.git)
 
++ [Java_design_pattern]-> (싱글턴, 옵져버패턴) 나중에 따로 디자인패턴을 위한 레포지터리 만들것 임
+
 
 ## Android
 
