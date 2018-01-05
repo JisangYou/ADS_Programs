@@ -25,7 +25,7 @@
 
 + [Java_Server_Chatting](https://github.com/youjisang/ADS_Java_Server_Chatting.git)
 
-+ lamda
++ [Java_lambda_Expressions](https://github.com/youjisang/ADS_Java_Lambda_Expressions.git)
 
 
 ## Android
