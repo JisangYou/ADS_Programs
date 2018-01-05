@@ -32,6 +32,8 @@
 
 ## Android
 
+- [Android_Concept_Manifest_Layout()
+
 - [Android_BasicWidget](https://github.com/youjisang/ADS_Android_BasicWidget.git)
  
 - [Animation](https://github.com/youjisang/Animation.git) 미
