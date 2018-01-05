@@ -32,48 +32,39 @@
 
 ## Android
 
- 1. [Android_BasicWidget](https://github.com/youjisang/ADS_Android_BasicWidget.git)
+- [Android_BasicWidget](https://github.com/youjisang/ADS_Android_BasicWidget.git)
  
- 2. [Animation](https://github.com/youjisang/Animation.git) 미
+- [Animation](https://github.com/youjisang/Animation.git) 미
  
- 3. [BasicLayout_Review](https://github.com/youjisang/BasicLayout_Review.git) 미
+- [BasicLayout_Review](https://github.com/youjisang/BasicLayout_Review.git) 미
  
- 4. [CustomVIew](https://github.com/youjisang/CustomView.git) 미
+- [CustomVIew](https://github.com/youjisang/CustomView.git) 미
  
- 5. [BasicListView](https://github.com/youjisang/BasicListView.git) 미
+- [BasicListView](https://github.com/youjisang/BasicListView.git) 미
  
- 6. [Permission](https://github.com/youjisang/Android_Permission.git) 미
+- [Permission](https://github.com/youjisang/Android_Permission.git) 미
  
- 7. [ContentProvider](https://github.com/youjisang/Content_Provider.git) 미
+- [ContentProvider](https://github.com/youjisang/Content_Provider.git) 미
  
- 8. [Tetris](https://github.com/youjisang/Tetris.git) 미
+- [Tetris](https://github.com/youjisang/Tetris.git) 미
  
- 9. [Tetris2](https://github.com/youjisang/Tetris2.git) 미
+- [Tetris2](https://github.com/youjisang/Tetris2.git) 미
  
-10. [Threadbasic](https://github.com/youjisang/threadbasic.git) 미
+- [Threadbasic](https://github.com/youjisang/threadbasic.git) 미
 
-11. [Servicebasic](https://github.com/youjisang/ServiceBasic.git) 미
+- [Servicebasic](https://github.com/youjisang/ServiceBasic.git) 미
 
-12. [Thread-RainDrop](https://github.com/youjisang/Thread-RainDrop.git) 미
+- [Thread-RainDrop](https://github.com/youjisang/Thread-RainDrop.git) 미
 
-13. [NetworkThread](https://github.com/youjisang/Thread-RainDrop.git) 미
+- [NetworkThread](https://github.com/youjisang/Thread-RainDrop.git) 미
 
-14. [AsyncTask](https://github.com/youjisang/AsyncTask.git) 미
+- [AsyncTask](https://github.com/youjisang/AsyncTask.git) 미
 
-15. [JsonData](https://github.com/youjisang/JsonData.git) 미
+- [JsonData](https://github.com/youjisang/JsonData.git) 미
 
-16. [Server_basic2] 준비중
-
-## node js (진행 중)
-
-1. [Nodejs_basic](https://github.com/youjisang/nodejs_basic.git) 미
-
-2. [Nodejs_server_basic](https://github.com/youjisang/nodejs_server_basic.git) 미
-
+- [Server_basic2] 준비중
 
 ## Mini-Project
-
-
 
 - [Calculate_basic](https://github.com/youjisang/Calculate_basic.git) 미
 
@@ -94,6 +85,16 @@
 - [TransferStation](https://github.com/youjisang/TransferStation.git) 미
 
 - [Bicycle](https://github.com/youjisang/Bicycle.git) 미
+
+## node js (진행 중)
+
+1. [Nodejs_basic](https://github.com/youjisang/nodejs_basic.git) 미
+
+2. [Nodejs_server_basic](https://github.com/youjisang/nodejs_server_basic.git) 미
+
+
+
+
 
 
 
