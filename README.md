@@ -32,7 +32,7 @@
 
 ## Android
 
- 1. [Widget](https://github.com/youjisang/Widget.git) 미
+ 1. [Android_BasicWidget](https://github.com/youjisang/ADS_Android_BasicWidget.git)
  
  2. [Animation](https://github.com/youjisang/Animation.git) 미
  
