@@ -36,15 +36,25 @@
 
 - [Android_BasicWidget](https://github.com/youjisang/ADS_Android_BasicWidget.git)
 
-- [Calculate_basic](https://github.com/youjisang/Calculate_basic.git) 미
+- [Android_Calculate1](https://github.com/youjisang/ADS_Android_Calculate1.git) 중
+
+- [Android_Calculate2] 수정 중 
  
 - [Animation](https://github.com/youjisang/Animation.git) 미
  
 - [BasicLayout_Review](https://github.com/youjisang/BasicLayout_Review.git) 미
+
+- [materialDesignAnimation](https://github.com/youjisang/materialDesign_propertyAnimation.git) 미
  
 - [CustomVIew](https://github.com/youjisang/CustomView.git) 미
  
 - [BasicListView](https://github.com/youjisang/BasicListView.git) 미
+
+- [MemoWithFile](https://github.com/youjisang/Android_Memo.git) 미
+
+- [MemoWithSqlLite](https://github.com/youjisang/Android_Memo_WithDB.git) 미
+
+- [MemoWithrecyclerView&ORM](https://github.com/youjisang/Android_Memo_with_recyclerViewAndORM.git) 미
  
 - [Permission](https://github.com/youjisang/Android_Permission.git) 미
  
@@ -58,6 +68,10 @@
 
 - [Servicebasic](https://github.com/youjisang/ServiceBasic.git) 미
 
+- [MusicPlayer1](https://github.com/youjisang/MusicPlayer.git) 미
+
+- [MusicPlayer2](https://github.com/youjisang/MusicPlayer2.git) 미
+
 - [Thread-RainDrop](https://github.com/youjisang/Thread-RainDrop.git) 미
 
 - [NetworkThread](https://github.com/youjisang/Thread-RainDrop.git) 미
@@ -66,26 +80,12 @@
 
 - [JsonData](https://github.com/youjisang/JsonData.git) 미
 
-- [Server_basic2] 준비중
-
-## Mini-Project
-
-
-- [materialDesignAnimation](https://github.com/youjisang/materialDesign_propertyAnimation.git) 미
-
-- [MemoWithFile](https://github.com/youjisang/Android_Memo.git) 미
-
-- [MemoWithSqlLite](https://github.com/youjisang/Android_Memo_WithDB.git) 미
-
-- [MemoWithrecyclerView&ORM](https://github.com/youjisang/Android_Memo_with_recyclerViewAndORM.git) 미
-
-- [MusicPlayer1](https://github.com/youjisang/MusicPlayer.git) 미
-
-- [MusicPlayer2](https://github.com/youjisang/MusicPlayer2.git) 미
+- [Bicycle](https://github.com/youjisang/Bicycle.git) 미
 
 - [TransferStation](https://github.com/youjisang/TransferStation.git) 미
 
-- [Bicycle](https://github.com/youjisang/Bicycle.git) 미
+- [Server_basic2] 준비중
+
 
 ## node js (진행 중)
 
