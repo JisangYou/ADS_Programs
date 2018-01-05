@@ -23,7 +23,9 @@
 
 + [Java_Annotation](https://github.com/youjisang/ADS_Java_Annotation.git)
 
-+ [Server-chatting](https://github.com/youjisang/Server-chatting.git) 미
++ [Java_Server_Chatting](https://github.com/youjisang/ADS_Java_Server_Chatting.git)
+
++ 
 
 
 ## Android
