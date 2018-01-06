@@ -42,7 +42,7 @@
  
 - [Android_Animation](https://github.com/youjisang/ADS_Android_Animation.git)
  
-- [BasicLayout_Review](https://github.com/youjisang/BasicLayout_Review.git) 미
+- [Android_Animation2](https://github.com/youjisang/ADS_Android_Animation2.git)
 
 - [materialDesignAnimation](https://github.com/youjisang/materialDesign_propertyAnimation.git) 미
  
