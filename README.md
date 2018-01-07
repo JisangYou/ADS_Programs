@@ -46,7 +46,7 @@
 
 - [Android_SpreadCube](https://github.com/youjisang/ADS_Android_SpreadCube.git)
  
-- [CustomVIew](https://github.com/youjisang/CustomView.git) 미
+- [Android_CustomView](https://github.com/youjisang/ADS_Android_CustomView.git)
  
 - [BasicListView](https://github.com/youjisang/BasicListView.git) 미
 
