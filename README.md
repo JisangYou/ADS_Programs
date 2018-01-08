@@ -52,7 +52,7 @@
 
 - [Android_MemoWithFile](https://github.com/youjisang/ADS_Android_MemoWithFile.git)
 
-- [MemoWithSqlLite](https://github.com/youjisang/Android_Memo_WithDB.git) 미
+- [Android_MemoWithSqlite](https://github.com/youjisang/ADS_Android_MemoWithSqlite.git) 미
 
 - [MemoWithrecyclerView&ORM](https://github.com/youjisang/Android_Memo_with_recyclerViewAndORM.git) 미
  
