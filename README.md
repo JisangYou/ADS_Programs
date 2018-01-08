@@ -50,7 +50,7 @@
  
 - [Android_ListView](https://github.com/youjisang/ADS_Android_ListView.git)
 
-- [MemoWithFile](https://github.com/youjisang/Android_Memo.git) 미
+- [MemoWithFile](https://github.com/youjisang/ListView_Practice.git)
 
 - [MemoWithSqlLite](https://github.com/youjisang/Android_Memo_WithDB.git) 미
 
