@@ -36,10 +36,10 @@
 
 - [Android_BasicWidget](https://github.com/youjisang/ADS_Android_BasicWidget.git)
 
-- [Android_Calculate1](https://github.com/youjisang/ADS_Android_Calculate1.git) 리팩토링 필요
-
-- [Android_Calculate2] 리팩토링 
- 
+- [Android_Calculate1](https://github.com/youjisang/ADS_Android_Calculate1.git)
+>> 복습 필요
+- [Android_Calculate2]
+>> 미완성
 - [Android_Animation](https://github.com/youjisang/ADS_Android_Animation.git)
  
 - [Android_Animation2](https://github.com/youjisang/ADS_Android_Animation2.git)
@@ -52,8 +52,8 @@
 
 - [Android_MemoWithFile](https://github.com/youjisang/ADS_Android_MemoWithFile.git)
 
-- [Android_MemoWithSQLite](https://github.com/youjisang/ADS_Android_MemoWithSQLite.git) 리팩토링 필요
-
+- [Android_MemoWithSQLite](https://github.com/youjisang/ADS_Android_MemoWithSQLite.git)
+>> 리팩토링 필요
 - [MemoWithrecyclerView&ORM](https://github.com/youjisang/Android_Memo_with_recyclerViewAndORM.git) 미
  
 - [Permission](https://github.com/youjisang/Android_Permission.git) 미
