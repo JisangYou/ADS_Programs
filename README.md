@@ -84,7 +84,39 @@
 
 - [TransferStation](https://github.com/youjisang/TransferStation.git) 미
 
-- [Server_basic2] 준비중
+- [Server_basic2](https://github.com/youjisang/Server_Basic2.git) 미
+
+- [firebase_basic](https://github.com/youjisang/FireBase_Basic.git) 미
+
+- [firebase_basic2](https://github.com/youjisang/FireBase_Basic2.git) 미
+
+- [DependencyInjection](https://github.com/youjisang/DependencyInjection.git) 미
+
+- [chattingApp](https://github.com/youjisang/Chatting-App.git) 미
+
+- [Subwayapp????](https://github.com/youjisang/SubwayApp.git) 중복
+ 
+- [RxJavaBasic01](https://github.com/youjisang/RxJavaBasic01.git) 미
+
+- [RxJavaBasic02](https://github.com/youjisang/RxJavaBasic02.git) 미
+
+- [RxJavaBasic03](https://github.com/youjisang/RxJavaBasic03.git) 미
+
+- [RxJavaBasic03](https://github.com/youjisang/RxJavaBasic03.git) 미
+
+- [RxJavaBasic04](https://github.com/youjisang/RxJavaBasic04.git) 미
+
+- [RxJavaBasic05](https://github.com/youjisang/RxJavaBasic05.git) 미
+
+- [Realm](https://github.com/youjisang/Realm.git) 미
+
+- [MVP](https://github.com/youjisang/mvp.git) 미
+
+- [MVVM](https://github.com/youjisang/MVVM.git) 미
+
+- [socar](https://github.com/youjisang/socar.git) 미
+
+- [broadcastReciever](https://github.com/youjisang/broadcastReciever.git) 미
 
 
 ## node js (진행 중)
