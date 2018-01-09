@@ -54,15 +54,17 @@
 
 - [Android_MemoWithFile](https://github.com/youjisang/ADS_Android_MemoWithFile.git)
 
-- [SQLlie]() - 추후추가
-
 - [Android_MemoWithSQLite](https://github.com/youjisang/ADS_Android_MemoWithSQLite.git) - 리팩토링필요
 
-- [MemoWithrecyclerView&ORM](https://github.com/youjisang/Android_Memo_with_recyclerViewAndORM.git) 미
+- [Android_MemoWithRecyclerViewAndORM](https://github.com/youjisang/ADS_Android_MemoWithRecyclerViewAndORM.git)
  
-- [Permission](https://github.com/youjisang/Android_Permission.git) 미
+- [Android_Permission](https://github.com/youjisang/ADS_Android_Permission.git)
  
-- [ContentProvider](https://github.com/youjisang/Content_Provider.git) 미
+- [Android_ContentResolver_Phonebook](https://github.com/youjisang/ADS_Android_ContentResolver_Phonebook.git)
+
+- [Android_Gallery](https://github.com/youjisang/ADS_Android_Gallery.git)
+
+- [Android_CustomGallery](https://github.com/youjisang/ADS_Android_CustomGallery.git)
 
 - [FragmentBasic](https://github.com/youjisang/FragmentBasic1.git) 미
 
