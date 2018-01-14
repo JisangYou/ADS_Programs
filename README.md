@@ -66,15 +66,15 @@
 
 - [Android_CustomGallery](https://github.com/youjisang/ADS_Android_CustomGallery.git)
 
-- [FragmentBasic](https://github.com/youjisang/FragmentBasic1.git) 미
+- [Android_FragmentBasic1](https://github.com/youjisang/ADS_Android_FragmentBasic1.git)
 
-- [FragmentBasic2](https://github.com/youjisang/FragmentBasic2.git) 미
+- [Android_FragmentBasic2](https://github.com/youjisang/ADS_Android_FragmentBasic2.git)
 
-- [ViewPager]() 미
+- [Android_ViewPager](https://github.com/youjisang/ADS_Android_ViewPager.git)
 
-- [tabLayoutWithFragment]() 미
+- [Android_TabLayoutWithFragment](https://github.com/youjisang/ADS_Android_TabLayoutWithFragment.git)
 
-- [tabLayoutWithView]() 
+- [Android_TabLayoutWithView](https://github.com/youjisang/ADS_Android_TabLayoutWithView.git) 
 
 - [Tetris](https://github.com/youjisang/Tetris.git) 미
  
