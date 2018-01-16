@@ -36,9 +36,9 @@
 
 - [Android_BasicWidget](https://github.com/youjisang/ADS_Android_BasicWidget.git)
 
-- [Android_Calculate1](https://github.com/youjisang/ADS_Android_Calculate1.git) - 복습 필요
+- [Android_Calculate1](https://github.com/youjisang/ADS_Android_Calculate1.git) - Review
 
-- [Android_Calculate2]() - 미완성
+- [Android_Calculate2]() - N
 
 - [Android_Animation](https://github.com/youjisang/ADS_Android_Animation.git)
  
@@ -50,11 +50,11 @@
  
 - [Android_ListView](https://github.com/youjisang/ADS_Android_ListView.git)
 
-- [생명주기, 인텐트. Style.xml]() - 추후
+- [생명주기, 인텐트. Style.xml]() - N
 
 - [Android_MemoWithFile](https://github.com/youjisang/ADS_Android_MemoWithFile.git)
 
-- [Android_MemoWithSQLite](https://github.com/youjisang/ADS_Android_MemoWithSQLite.git) - 리팩토링필요
+- [Android_MemoWithSQLite](https://github.com/youjisang/ADS_Android_MemoWithSQLite.git) - need Refactoring
 
 - [Android_MemoWithRecyclerViewAndORM](https://github.com/youjisang/ADS_Android_MemoWithRecyclerViewAndORM.git)
  
@@ -76,19 +76,19 @@
 
 - [Android_TabLayoutWithView](https://github.com/youjisang/ADS_Android_TabLayoutWithView.git) 
 
-- [Tetris](https://github.com/youjisang/Tetris.git) 미
- 
-- [Tetris2](https://github.com/youjisang/Tetris2.git) 미
- 
 - [Threadbasic](https://github.com/youjisang/threadbasic.git) 미
+
+- [Thread-RainDrop](https://github.com/youjisang/Thread-RainDrop.git) 미
+
+- [Tetris](https://github.com/youjisang/Tetris.git) N
+ 
+- [Tetris2](https://github.com/youjisang/Tetris2.git) N
 
 - [Servicebasic](https://github.com/youjisang/ServiceBasic.git) 미
 
-- [MusicPlayer1](https://github.com/youjisang/MusicPlayer.git) 미
+- [MusicPlayer1](https://github.com/youjisang/MusicPlayer.git) N
 
-- [MusicPlayer2](https://github.com/youjisang/MusicPlayer2.git) 미
-
-- [Thread-RainDrop](https://github.com/youjisang/Thread-RainDrop.git) 미
+- [MusicPlayer2](https://github.com/youjisang/MusicPlayer2.git) N
 
 - [NetworkThread](https://github.com/youjisang/Thread-RainDrop.git) 미
 
