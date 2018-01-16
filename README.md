@@ -90,7 +90,7 @@
 
 - [MusicPlayer2](https://github.com/youjisang/MusicPlayer2.git) N
 
-- [NetworkThread](https://github.com/youjisang/Thread-RainDrop.git) 미
+- [Android_Network](https://github.com/youjisang/ADS_Android_Network.git)
 
 - [AsyncTask](https://github.com/youjisang/AsyncTask.git) 미
 
