@@ -76,7 +76,7 @@
 
 - [Android_TabLayoutWithView](https://github.com/youjisang/ADS_Android_TabLayoutWithView.git) 
 
-- [Threadbasic](https://github.com/youjisang/threadbasic.git) 미
+- [Android_ThreadBasic](https://github.com/youjisang/ADS_Android_ThreadBasic.git) 미
 
 - [Thread-RainDrop](https://github.com/youjisang/Thread-RainDrop.git) 미
 
