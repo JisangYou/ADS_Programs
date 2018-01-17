@@ -84,7 +84,7 @@
  
 - [Tetris2](https://github.com/youjisang/Tetris2.git) N
 
-- [Servicebasic](https://github.com/youjisang/ServiceBasic.git) 미
+- [Android_ServiceBasic](https://github.com/youjisang/ADS_Android_ServiceBasic.git)
 
 - [MusicPlayer1](https://github.com/youjisang/MusicPlayer.git) N
 
@@ -94,7 +94,7 @@
 
 - [Android_AsyncTask](https://github.com/youjisang/ADS_Android_AsyncTask.git)
 
-- [JsonData](https://github.com/youjisang/JsonData.git) 미
+- [Android_JsonData](https://github.com/youjisang/ADS_Android_JsonData.git)
 
 - [Bicycle](https://github.com/youjisang/Bicycle.git) 미
 
