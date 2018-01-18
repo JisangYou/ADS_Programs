@@ -98,41 +98,41 @@
 
 - [Android_GoogleMapWithBicycle](https://github.com/youjisang/ADS_Android_GoogleMapWithBicycle.git)
 
-- [TransferStationBasic](https://github.com/youjisang/TransferStation.git) 미
+- [TransferStationBasic](https://github.com/youjisang/TransferStation.git) N
 
-- [TransferStationIntermediate](https://github.com/youjisang/SubwayApp.git) 중복
+- [TransferStationIntermediate](https://github.com/youjisang/SubwayApp.git) N
 
-- [Server_basic2](https://github.com/youjisang/Server_Basic2.git) 미
+- [Server_basic2](https://github.com/youjisang/Server_Basic2.git) N
 
 - [Android_DependencyInjection](https://github.com/youjisang/ADS_Android_DependencyInjection.git)
 
-- [firebase_basic](https://github.com/youjisang/FireBase_Basic.git) 미
+- [firebase_basic](https://github.com/youjisang/FireBase_Basic.git) N
 
-- [firebase_basic2](https://github.com/youjisang/FireBase_Basic2.git) 미
+- [firebase_basic2](https://github.com/youjisang/FireBase_Basic2.git) N
 
-- [chattingApp](https://github.com/youjisang/Chatting-App.git) 미
+- [chattingApp](https://github.com/youjisang/Chatting-App.git) N
  
-- [RxJavaBasic01](https://github.com/youjisang/RxJavaBasic01.git) 미
+- [RxJavaBasic01](https://github.com/youjisang/RxJavaBasic01.git) N
 
-- [RxJavaBasic02](https://github.com/youjisang/RxJavaBasic02.git) 미
+- [RxJavaBasic02](https://github.com/youjisang/RxJavaBasic02.git) N
 
-- [RxJavaBasic03](https://github.com/youjisang/RxJavaBasic03.git) 미
+- [RxJavaBasic03](https://github.com/youjisang/RxJavaBasic03.git) N
 
-- [RxJavaBasic03](https://github.com/youjisang/RxJavaBasic03.git) 미
+- [RxJavaBasic03](https://github.com/youjisang/RxJavaBasic03.git) N
 
-- [RxJavaBasic04](https://github.com/youjisang/RxJavaBasic04.git) 미
+- [RxJavaBasic04](https://github.com/youjisang/RxJavaBasic04.git) N
 
-- [RxJavaBasic05](https://github.com/youjisang/RxJavaBasic05.git) 미
+- [RxJavaBasic05](https://github.com/youjisang/RxJavaBasic05.git) N
 
-- [Realm](https://github.com/youjisang/Realm.git) 미
+- [Realm](https://github.com/youjisang/Realm.git) N
 
-- [MVP](https://github.com/youjisang/mvp.git) 미
+- [MVP](https://github.com/youjisang/mvp.git) N
 
-- [MVVM](https://github.com/youjisang/MVVM.git) 미
+- [MVVM](https://github.com/youjisang/MVVM.git) N
 
-- [socar](https://github.com/youjisang/socar.git) 미
+- [socar](https://github.com/youjisang/socar.git) N
 
-- [broadcastReciever](https://github.com/youjisang/broadcastReciever.git) 미
+- [broadcastReciever](https://github.com/youjisang/broadcastReciever.git) N
 
 
 ## node js (진행 중)
