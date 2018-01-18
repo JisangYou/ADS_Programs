@@ -96,7 +96,7 @@
 
 - [Android_JsonData](https://github.com/youjisang/ADS_Android_JsonData.git)
 
-- [Bicycle](https://github.com/youjisang/Bicycle.git) 미
+- [Android_GoogleMapWithBicycle](https://github.com/youjisang/ADS_Android_GoogleMapWithBicycle.git)
 
 - [TransferStationBasic](https://github.com/youjisang/TransferStation.git) 미
 
