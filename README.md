@@ -98,19 +98,19 @@
 
 - [Bicycle](https://github.com/youjisang/Bicycle.git) 미
 
-- [TransferStation](https://github.com/youjisang/TransferStation.git) 미
+- [TransferStationBasic](https://github.com/youjisang/TransferStation.git) 미
+
+- [TransferStationIntermediate](https://github.com/youjisang/SubwayApp.git) 중복
 
 - [Server_basic2](https://github.com/youjisang/Server_Basic2.git) 미
+
+- [Android_DependencyInjection](https://github.com/youjisang/ADS_Android_DependencyInjection.git)
 
 - [firebase_basic](https://github.com/youjisang/FireBase_Basic.git) 미
 
 - [firebase_basic2](https://github.com/youjisang/FireBase_Basic2.git) 미
 
-- [Android_DependencyInjection](https://github.com/youjisang/ADS_Android_DependencyInjection.git)
-
 - [chattingApp](https://github.com/youjisang/Chatting-App.git) 미
-
-- [Subwayapp????](https://github.com/youjisang/SubwayApp.git) 중복
  
 - [RxJavaBasic01](https://github.com/youjisang/RxJavaBasic01.git) 미
 
