@@ -106,7 +106,7 @@
 
 - [firebase_basic2](https://github.com/youjisang/FireBase_Basic2.git) 미
 
-- [DependencyInjection](https://github.com/youjisang/DependencyInjection.git) 미
+- [Android_DependencyInjection](https://github.com/youjisang/ADS_Android_DependencyInjection.git)
 
 - [chattingApp](https://github.com/youjisang/Chatting-App.git) 미
 
