@@ -145,4 +145,5 @@
 
 4.
 
+![1](ReactiveX - Map operator.html)
 
