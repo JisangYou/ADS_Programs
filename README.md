@@ -145,5 +145,5 @@
 
 4.
 
-![1](file:///C:/Users/JisangYou/Desktop/ReactiveX%20-%20Map%20operator.html)
+![1](C:/Users/JisangYou/Desktop/ReactiveX%20-%20Map%20operator.html)
 
