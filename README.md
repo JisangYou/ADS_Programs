@@ -112,17 +112,15 @@
 
 - [chattingApp](https://github.com/youjisang/Chatting-App.git) N
  
-- [RxJavaBasic01](https://github.com/youjisang/RxJavaBasic01.git) N
+- [ADS_Android_RxJavaBasic01](https://github.com/youjisang/Android_RxJavaBasic01.git)
 
-- [RxJavaBasic02](https://github.com/youjisang/RxJavaBasic02.git) N
+- [ADS_Android_RxJavaBasic02](https://github.com/youjisang/Android_RxJavaBasic02.git)
 
-- [RxJavaBasic03](https://github.com/youjisang/RxJavaBasic03.git) N
+- [ADS_Android_RxJavaBasic03](https://github.com/youjisang/Android_RxJavaBasic03.git)
 
-- [RxJavaBasic03](https://github.com/youjisang/RxJavaBasic03.git) N
+- [ADS_Android_RxJavaBasic04](https://github.com/youjisang/Android_RxJavaBasic04.git)
 
-- [RxJavaBasic04](https://github.com/youjisang/RxJavaBasic04.git) N
-
-- [RxJavaBasic05](https://github.com/youjisang/RxJavaBasic05.git) N
+- [ADS_Android_RxJavaBasic05](https://github.com/youjisang/Android_RxJavaBasic05.git)
 
 - [Realm](https://github.com/youjisang/Realm.git) N
 
