@@ -122,11 +122,11 @@
 
 - [Android_RxJavaBasic05](https://github.com/youjisang/ADS_Android_RxJavaBasic05.git)
 
-- [Realm](https://github.com/youjisang/Realm.git) N
+- [Android_Realm](https://github.com/youjisang/ADS_Android_Realm.git)
 
-- [MVP](https://github.com/youjisang/mvp.git) N
+- [Android_MVP](https://github.com/youjisang/ADS_Android_MVP.git)
 
-- [MVVM](https://github.com/youjisang/MVVM.git) N
+- [Android_MVVM](https://github.com/youjisang/ADS_Android_MVVM.git)
 
 - [socar](https://github.com/youjisang/socar.git) N
 
