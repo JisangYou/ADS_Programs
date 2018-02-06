@@ -50,8 +50,6 @@
  
 - [Android_ListView](https://github.com/youjisang/ADS_Android_ListView.git)
 
-- [생명주기, 인텐트. Style.xml]() - N
-
 - [Android_MemoWithFile](https://github.com/youjisang/ADS_Android_MemoWithFile.git)
 
 - [Android_MemoWithSQLite](https://github.com/youjisang/ADS_Android_MemoWithSQLite.git) - need Refactoring
