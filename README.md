@@ -36,7 +36,7 @@
 
 - [Android_BasicWidget](https://github.com/youjisang/ADS_Android_BasicWidget.git)
 
-- [Android_Calculate1](https://github.com/youjisang/ADS_Android_Calculate1.git) - Review
+- [Android_Calculate1](https://github.com/youjisang/ADS_Android_Calculate1.git)
 
 - [Android_Calculate2]() - N
 
