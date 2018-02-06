@@ -98,10 +98,6 @@
 
 - [Android_GoogleMapWithBicycle](https://github.com/youjisang/ADS_Android_GoogleMapWithBicycle.git)
 
-- [TransferStationBasic](https://github.com/youjisang/TransferStation.git) N
-
-- [TransferStationIntermediate](https://github.com/youjisang/SubwayApp.git) N
-
 - [Server_basic2](https://github.com/youjisang/Server_Basic2.git) N
 
 - [Android_DependencyInjection](https://github.com/youjisang/ADS_Android_DependencyInjection.git)
@@ -135,9 +131,11 @@
 
 ## node js (진행 중)
 
-1. [Nodejs_basic](https://github.com/youjisang/nodejs_basic.git) 미
+1. [Nodejs_basic](https://github.com/youjisang/nodejs_basic.git) N
 
-2. [Nodejs_server_basic](https://github.com/youjisang/nodejs_server_basic.git) 미
+2. [Nodejs_server_basic](https://github.com/youjisang/nodejs_server_basic.git) N
+
+3. 
 
 
 
