@@ -86,7 +86,7 @@
 
 - [Android_ServiceBasic](https://github.com/youjisang/ADS_Android_ServiceBasic.git)
 
-- [MusicPlayer1](https://github.com/youjisang/MusicPlayer.git) N
+- [Android_MusicPlayer1](https://github.com/youjisang/ADS_Android_MusicPlayer.git)
 
 - [MusicPlayer2](https://github.com/youjisang/MusicPlayer2.git) N
 
