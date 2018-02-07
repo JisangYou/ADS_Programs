@@ -124,7 +124,7 @@
 
 - [socar](https://github.com/youjisang/socar.git) N
 
-- [broadcastReciever](https://github.com/youjisang/broadcastReciever.git) N
+- [Android_BroadcastReciever](https://github.com/youjisang/ADS_Android_BroadcastReciever.git)
 
 
 ## node js (진행 중)
