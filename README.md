@@ -122,7 +122,7 @@
 
 - [Android_MVVM](https://github.com/youjisang/ADS_Android_MVVM.git)
 
-- [socar](https://github.com/youjisang/socar.git) N
+- [SoMap](https://github.com/youjisang/SoMap.git)
 
 - [Android_BroadcastReciever](https://github.com/youjisang/ADS_Android_BroadcastReciever.git)
 
