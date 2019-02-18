@@ -125,16 +125,3 @@
 - [SoMap](https://github.com/youjisang/SoMap.git)
 
 - [Android_BroadcastReciever](https://github.com/youjisang/ADS_Android_BroadcastReciever.git)
-
-
-## node js (진행 중)
-
-1. [Nodejs_basic](https://github.com/youjisang/nodejs_basic.git) N
-
-2. [Nodejs_server_basic](https://github.com/youjisang/nodejs_server_basic.git) N
-
-3. 
-
-
-
-
